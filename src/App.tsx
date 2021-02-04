@@ -45,8 +45,7 @@ const App: React.FC = () => {
             </Route>
             
            
-            {/* 404 */}
-            <Route component={NotFound} />
+           
           </Switch>
         </Suspense>
       </Menu>
