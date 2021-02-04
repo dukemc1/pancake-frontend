@@ -10,9 +10,9 @@ const config: MenuEntry[] = [
     label: 'Lottery',
     icon: 'TicketIcon',
     href: '/lottery',
-  },
-    
-    ],
   
-],
+     
+    ],
+  },
+]
 export default config
