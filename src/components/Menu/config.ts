@@ -7,6 +7,3 @@ const config: MenuEntry[] = [
     href: '/',
   },
  
-     
-    ],
-
